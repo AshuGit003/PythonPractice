@@ -1,1 +1,2 @@
-Hii I'm Ashish !!!
+Name: Ashish, Age: 24, Course: Science, City: Pune
+Name: Pratap, Course: Science, Marks: 89
