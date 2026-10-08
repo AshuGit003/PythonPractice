@@ -1,2 +1,5 @@
 Name: Ashish, Age: 24, Course: Science, City: Pune
 Name: Pratap, Course: Science, Marks: 89
+Name: Omkar, Course: Science, Marks: 67
+Name: Chaitanya, Course: Science, Marks: 78
+Name: Brijesh, Course: Science, Marks: 97
